@@ -38,3 +38,5 @@ The feature selection techniques used are:
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0a870d73-734e-4e00-b7dd-ca7c916efaa9)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0234f545-8104-48d7-8385-7ce133568a38)
        # INCLUDE YOUR RESULT HERE
+# RESULT:
+   Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is created executed and output is verified successfully.
